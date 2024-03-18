@@ -45,4 +45,4 @@ It appears that the project you're trying to run uses Vite as its build tool and
 
 Keep in mind that the available scripts and their functionality are defined in the project's `package.json` file. The above instructions assume that you have Node.js and npm installed on your system.
 
-If you encounter any issues during this process, please refer to the project's documentation or README for troubleshooting steps specific to the `fem-dictionary-web-app`.
+If you encounter any issues during this process, please refer to the project's documentation or README for troubleshooting steps specific to the `Dictionary`.
