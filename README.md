@@ -1,6 +1,6 @@
 # Dictionary Web App - Frontend Mentor Challenge
 
-It appears that the project you're trying to run uses Vite as its build tool and development server. Here are the steps to run the `fem-dictionary-web-app` project on your localhost:
+It appears that the project you're trying to run uses Vite as its build tool and development server. Here are the steps to run the `Dictionary` project on your localhost:
 
 1. **Clone the Repository:**
    If you haven't already, clone the repository as mentioned earlier:
@@ -13,7 +13,7 @@ It appears that the project you're trying to run uses Vite as its build tool and
    Move into the project directory:
 
    ```sh
-   cd dictionary-app
+   cd Dictionary
    ```
 
 3. **Install Dependencies:**
